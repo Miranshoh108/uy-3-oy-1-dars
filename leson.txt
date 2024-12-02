@@ -1,0 +1,16 @@
+console.log('Bu JavaScriptning birinchi kodi!')          
+JavaScript kodlari odatda buyruqlar (statements) to'plamidan iborat bo'lib, har bir buyruq nuqta-vergul (;) bilan tugaydi.
+O'zgaruvchilar ma'lumotlarni saqlash uchun ishlatiladi. JavaScriptda o'zgaruvchilarni quyidagicha e'lon qilish mumkin:
+- **var** (eski usul, kamroq qo'llaniladi)
+- **let** (zamonaviy usul, o'zgartirilishi mumkin)
+- **const** (o'zgarmas qiymat)
+ JavaScriptning asosiy ma'lumot turlari:
+1. String (matn): `'Salom'`, `'JavaScript'`
+2. Number (raqam): `10`, `3.14`
+3. Boolean (mantiqiy): `true`, `false`
+4. Null (bo'sh): `null`
+5. Undefined (aniqlanmagan): `undefined`
+6. Object (ob'yekt): `{ ism: 'Ali', yosh: 25 }`
+Konsol bilan ishlash
+Brauzerning konsolini ochish uchun `F12` tugmasini bosib, "Console" bo'limiga o'ting. 
+Konsolga xabar chiqarish uchun
